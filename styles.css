@@ -1,0 +1,17 @@
+body{
+  background-color: #D6E4E5;
+}
+h1{
+  color: #FD841F;
+}
+h2{
+  color: #FD841F;
+}
+hr{
+  /*background-color: pink;*/
+  border-style:  none none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-radius: 0;
+  width: 5%;
+}
